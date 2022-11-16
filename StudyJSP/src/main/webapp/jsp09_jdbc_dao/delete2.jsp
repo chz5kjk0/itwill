@@ -8,6 +8,7 @@
 <%
 request.setCharacterEncoding("UTF-8");
 
+// 아무거나
 // URL 파라미터로 전달받은 아이디 가져와서 변수에 저장
 String id = request.getParameter("id");
 // out.println(id);
